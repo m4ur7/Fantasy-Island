@@ -1,9 +1,38 @@
-# Build and Deploy an Amazing 3D Developer Portfolio in React with Three.js
 
-![3D Website](https://i.ibb.co/ryytGVx/Screenshot-2023-11-25-at-11-28-11-AM.png)
+# Fantasy Island
 
-### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-### [📙 Free Three.js Cheatsheet](https://resource.jsmastery.pro/threejs-cheatsheet)
-### [🌐 Best Hosting for Your Websites](https://hostinger.com/javascript10)
+Fantasy Island es un proyecto fascinante que te transporta a un mundo virtual lleno de maravillas y aventuras. Sumérgete en un entorno visualmente impresionante, donde una isla mágica, un biplano y un cielo dinámico se combinan para crear una experiencia envolvente.
 
+## Iconos
+
+Características notables:
+
+:star: Ambiente Encantador: Explora una isla encantada con detalles artísticos y escenarios cautivadores que te sumergirán en un mundo de fantasía. 🏝️
+
+:star: Interactividad: Controla el movimiento de la isla y el biplano mientras experimentas una sensación única de exploración y descubrimiento.🎮
+
+:star: Música Atmosférica: Disfruta de una banda sonora envolvente que acompaña tu viaje, creando una atmósfera mágica y emocional. 🎵
+
+:star: Diseño Responsivo: La aplicación se adapta de manera elegante a diferentes tamaños de pantalla, ofreciendo una experiencia óptima tanto en dispositivos móviles como en ordenadores. 📱💻
+
+:star: Estilo Artístico Único: Las representaciones visuales únicas, desde el vuelo del biplano hasta la isla en rotación, crean una experiencia estética que destaca por su originalidad. 🎨
+
+
+...
+
+## Espacio
+
+A continuación, una muestra:
+
+![3D Website](src/assets/images/screen.png)
+
+## Instalación
+
+Instrucciones para instalar y ejecutar tu proyecto.
+
+```bash
+# Clona el repositorio
+git clone https://github.com/m4ur7/Fantasy-Island.git
+
+# Instala las dependencias
+npm install
