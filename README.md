@@ -3,9 +3,7 @@
 
 Fantasy Island es un proyecto fascinante que te transporta a un mundo virtual lleno de maravillas y aventuras. Sumérgete en un entorno visualmente impresionante, donde una isla mágica, un biplano y un cielo dinámico se combinan para crear una experiencia envolvente.
 
-## Iconos
-
-Características notables:
+## Características notables:
 
 :star: Ambiente Encantador: Explora una isla encantada con detalles artísticos y escenarios cautivadores que te sumergirán en un mundo de fantasía. 🏝️
 
@@ -28,7 +26,7 @@ A continuación, una muestra:
 
 ## Instalación
 
-Instrucciones para instalar y ejecutar tu proyecto.
+Instrucciones para instalar y ejecutar el proyecto.
 
 ```bash
 # Clona el repositorio
