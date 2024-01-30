@@ -4,6 +4,9 @@ import Loader from "./Loader";
 import Navbar from "./Navbar";
 import Footer from "./Footer";
 import HomeInfo from "./HomeInfo";
+import Experience from "./Experience";
+import FoxIslands from "./FoxIslands";
+import UI from "./UI";
 
 export {
     CTA,
@@ -11,5 +14,8 @@ export {
     Loader,
     Navbar,
     Footer,
-    HomeInfo
+    HomeInfo,
+    Experience,
+    FoxIslands,
+    UI,
 }
