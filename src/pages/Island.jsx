@@ -1,9 +1,11 @@
+// Island.jsx
 import React from 'react';
 import { Canvas } from '@react-three/fiber';
 import { Bloom, EffectComposer } from '@react-three/postprocessing';
 import { Suspense } from 'react';
 import { Experience } from '../components/Experience';
 import { UI } from '../components/UI';
+import Navbar from '../components/Navbar';
 
 const Island = () => {
   const canvasStyle = {
@@ -16,6 +18,9 @@ const Island = () => {
 
   return (
     <>
+      <div style={{ backgroundColor: 'white' }}>
+        <Navbar textColor="white" /> {/* Cambia el color del texto aquí */}
+      </div>
       <Canvas
         style={canvasStyle}
         shadows
