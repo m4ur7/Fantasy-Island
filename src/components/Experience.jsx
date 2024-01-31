@@ -1,12 +1,4 @@
-import {
-  CameraControls,
-  Environment,
-  Float,
-  MeshReflectorMaterial,
-  RenderTexture,
-  Text,
-  useFont,
-} from "@react-three/drei";
+import { CameraControls, Environment, Float, MeshReflectorMaterial, RenderTexture, Text, useFont,} from "@react-three/drei";
 import { useFrame } from "@react-three/fiber";
 import { useAtom } from "jotai";
 import { useEffect, useRef } from "react";

@@ -21,7 +21,7 @@ const App = () => {
 
                 </Routes>
                 <Routes>
-                <Route path='/island' element={<Island />} />
+                  <Route path='/island' element={<Island />} />
 
                 </Routes>
                 <Footer />
@@ -29,7 +29,7 @@ const App = () => {
               </>
             }
           />
-          
+
         </Routes>
       </Router>
     </main>
